@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+   <channel>
+        <Noticia> 
+        <tema>Quema grasa 3k</tema>   
+        <hora>22:30</hora>
+        <Ubicacion>España</Ubicacion>
+        <descripcion>Nuevo artilugio que hace que quemes grasa</descripcion>
+        <tipo>comercial</tipo>
+        </Noticia>
+        <Noticia> 
+        <tema>bitcoin sube</tema>   
+        <hora>10:30</hora>
+        <Ubicacion>internacional</Ubicacion>
+        <descripcion>Sube el valor del bitcoin</descripcion>
+        <tipo>economico</tipo>
+        </Noticia>
+        <Noticia> 
+        <tema>Continua la guerra</tema>   
+        <hora>21:30</hora>
+        <Ubicacion>internacional</Ubicacion>
+        <descripcion>Sigue la guerra entre rusia y ucrania</descripcion>
+        <tipo>bélico</tipo>
+        </Noticia>
+   </channel>
+</rss>
