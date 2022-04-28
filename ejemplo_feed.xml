@@ -1,26 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
    <channel>
-        <Noticia> 
-        <tema>Quema grasa 3k</tema>   
-        <hora>22:30</hora>
-        <Ubicacion>España</Ubicacion>
-        <descripcion>Nuevo artilugio que hace que quemes grasa</descripcion>
-        <tipo>comercial</tipo>
-        </Noticia>
-        <Noticia> 
-        <tema>bitcoin sube</tema>   
-        <hora>10:30</hora>
-        <Ubicacion>internacional</Ubicacion>
-        <descripcion>Sube el valor del bitcoin</descripcion>
-        <tipo>economico</tipo>
-        </Noticia>
-        <Noticia> 
-        <tema>Continua la guerra</tema>   
-        <hora>21:30</hora>
-        <Ubicacion>internacional</Ubicacion>
-        <descripcion>Sigue la guerra entre rusia y ucrania</descripcion>
-        <tipo>bélico</tipo>
-        </Noticia>
+        <item> 
+        <id>Noticia 1</id>   
+        <title>Gobierno confía en convalidar el jueves su plan económico frente a la guerra</title>
+        <link>Guerra Ucrania Rusia: Últimas noticias del 24 de abril en directo (antena3.com)</link>
+        <descripcion>El Gobierno confía en que el Congreso respalde el próximo jueves el decreto ley con su plan de choque económico frente a la guerra en Ucrania, en vigor desde el 1 de abril, que incluye la bonificación de al menos 0,20 céntimos por litro de carburante y la limitación al 2 % de la revisión de los alquileres.</descripcion>
+        </item>
+        <item> 
+        <id>Noticia 2</id>   
+        <title>Dos misiles impactan en la ciudad ucraniana de Zaporiyia, según la administración militar</title>
+        <link>Resumen de la guerra de Rusia en Ucrania del 25 de abril (cnn.com)</link>
+        <descripcion>Dos misiles guiados impactaron este martes en la ciudad de Zaporiyia, en el centro de Ucrania, según la administración militar regional de Zaporiyia.Los misiles alcanzaron una de las empresas de la ciudad, matando a una persona e hiriendo a otra, dijo la administración.</descripcion>
+        </item>
+        <item> 
+        <id>Noticia 3</id>   
+        <title>Dos misiles impactan en la ciudad ucraniana de Zaporiyia, según la administración militar</title>
+        <link>Resumen de la guerra de Rusia en Ucrania del 25 de abril (cnn.com)</link>
+        <descripcion>Dos misiles guiados impactaron este martes en la ciudad de Zaporiyia, en el centro de Ucrania, según la administración militar regional de Zaporiyia.Los misiles alcanzaron una de las empresas de la ciudad, matando a una persona e hiriendo a otra, dijo la administración.</descripcion>
+        </item>
    </channel>
 </rss>

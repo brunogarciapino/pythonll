@@ -6,14 +6,13 @@
         <xs:element name="channel">
           <xs:complexType>
             <xs:sequence>
-              <xs:element maxOccurs="unbounded" name="Noticia">
+              <xs:element maxOccurs="unbounded" name="item">
                 <xs:complexType>
                   <xs:sequence>
-                    <xs:element name="tema" type="xs:string" />
-                    <xs:element name="hora" type="xs:string" />
-                    <xs:element name="Ubicacion" type="xs:string" />
+                    <xs:element name="id" type="xs:string" />
+                    <xs:element name="title" type="xs:string" />
+                    <xs:element name="link" type="xs:string" />
                     <xs:element name="descripcion" type="xs:string" />
-                    <xs:element name="tipo" type="xs:string" />
                   </xs:sequence>
                 </xs:complexType>
               </xs:element>
