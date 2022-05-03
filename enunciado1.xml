@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ies nombre="IES Rafael Alberti" web="http://www.iesrafaelalberti.es/" >
+  <ciclos>
+     <ciclo id="SMR">
+      <nombre>Sistemas Microinformáticos y Redes</nombre>
+      <grado>Medio</grado>
+      <decretoTitulo año="2007" />
+     </ciclo>
+    <ciclo id="DAW">
+      <nombre>Desarrollo de Aplicaciones Web</nombre>
+      <grado>Superior</grado>
+      <decretoTitulo año="2010" />
+    </ciclo>
+    <ciclo id="DAM">
+      <nombre>Desarrollo de Aplicaciones Multiplataforma</nombre>
+      <grado>Superior</grado>
+      <decretoTitulo año="2010" />
+    </ciclo>
+    <ciclo id="CIBER">
+      <nombre>Ciberseguridad en Entornos de las Tecnologías de la Información</nombre>
+      <grado>Curso de Especialización</grado>
+      <decretoTitulo año="2020" />
+    </ciclo>
+  </ciclos>
+</ies>
